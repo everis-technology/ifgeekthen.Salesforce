@@ -1,24 +1,16 @@
 # Contribution Guidelines
 
-Thank you for your interest in [Project Name]!
+Thank you for your interest in ifgeekthen.Salesforce!
 
-This project welcomes contributions and suggestions. Most contributions require you to
-agree to a Contributor License Agreement (CLA) declaring that you have the right to,
-and actually do, grant us the rights to use your contribution.
-
-For details, visit ...
-
-When you submit a pull request, a CLA-bot will automatically determine whether you need
-to provide a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the
-instructions provided by the bot. You will only need to do this once across all repositories using our CLA.
+This project welcomes contributions and suggestions.
 
 This project has adopted the everis Community Code of Conduct.
 For more information see the Code of Conduct FAQ
 or contact ...@everis.com with any additional questions or comments.
 
-Contributions come in many forms: submitting issues, writing code, participating in discussions and community calls.
+Contributions come in many forms: submitting issues, writing code and participating in discussions.
 
-This document provides the guidelines for how to contribute to the [Project Name] project.
+This document provides the guidelines for how to contribute to the ifgeekthen.Salesforce project.
 
 ## Issues
 
@@ -38,9 +30,9 @@ There are 4 types of issues:
 Before you file an issue, make sure you've checked the following:
 
 1. Is it the right repository?
-    - The [Project Name] may be distributed across multiple repositories. Check the list of [repositories](https://github.com/everisTech) if you aren't sure which repo is the correct one.
+    - The ifgeekthen.Salesforce may be distributed across multiple repositories. Check the list of [repositories](https://github.com/everis-technology) if you aren't sure which repo is the correct one.
 1. Check for existing issues
-    - Before you create a new issue, please do a search in [open issues](https://github.com/everisTech/[Project Name]/issues) to see if the issue or feature request has already been filed.
+    - Before you create a new issue, please do a search in [open issues](https://github.com/everis-technology/ifgeekthen.Salesforce/issues) to see if the issue or feature request has already been filed.
     - If you find your issue already exists, make relevant comments and add your [reaction](https://github.com/blog/2119-add-reaction-to-pull-requests-issues-and-comments). Use a reaction:
         - 👍 up-vote
         - 👎 down-vote
@@ -48,9 +40,9 @@ Before you file an issue, make sure you've checked the following:
     - Check it's not an environment issue. For example, if running on Kubernetes, make sure prerequisites are in place. (state stores, bindings, etc.)
     - You have as much data as possible. This usually comes in the form of logs and/or stacktrace.
 1. For proposals
-    - The best place to discuss the potential feature is the main [[Project Name] repo](https://github.com/everisTech/[Project Name]).
+    - The best place to discuss the potential feature is the main [ifgeekthen.Salesforce repo](https://github.com/everis-technolog/ifgeekthen.Salesforce).
 
-## Contributing to [Project Name]
+## Contributing to [ifgeekthen.Salesforce]
 
 This section describes the guidelines for contributing code / docs to [Project Name].
 
