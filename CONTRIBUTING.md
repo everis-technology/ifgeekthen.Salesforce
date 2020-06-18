@@ -76,4 +76,4 @@ A non-exclusive list of whats is considered Third-party code:
 
 ## Code of Conduct
 
-This project has adopted the [everis Community Code of Conduct](https://github.com/everisTech/codeofconduct/).
+This project has adopted the [everis Community Code of Conduct](https://github.com/everis-technology/codeofconduct/).
