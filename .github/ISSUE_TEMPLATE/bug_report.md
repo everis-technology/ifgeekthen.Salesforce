@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a bug in [Project Name]
+about: Report a bug in ifgeekthen.Salesforce
 title: ''
 labels: kind/bug
 assignees: ''
