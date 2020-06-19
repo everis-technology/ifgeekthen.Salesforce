@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Create a Feature Request for [Project Name]
+about: Create a Feature Request for ifgeekthen.Salesforce
 title: ''
 labels: kind/enhancement
 assignees: ''
