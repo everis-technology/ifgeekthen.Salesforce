@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Ask a question about [Project Name]
+about: Ask a question about ifgeekthen.Salesforce
 title: ''
 labels: kind/question
 assignees: ''
